@@ -31,3 +31,24 @@ Website for Research papers in OSDSResearch site<br> | June 9 | [1](https://gith
 Implement Search<br> | June 10 | [2](https://github.com/tapaswenipathak/OSDSResearchTillNow/issues/3) | Pending
 As the material is huge work on making search faster<br> | June 11 | [3](https://github.com/tapaswenipathak/OSDSResearchTillNow/issues/4) | Pending
 
+Planned Tickets:
+- https://github.com/tapaswenipathak/JHEPC-19/issues/6
+- https://github.com/tapaswenipathak/JHEPC-19/issues/8
+- https://github.com/tapaswenipathak/JHEPC-19/issues/12
+- https://github.com/tapaswenipathak/JHEPC-19/issues/13
+- https://github.com/tapaswenipathak/JHEPC-19/issues/14
+
+- How many days of lag  -8 days
+
+What should be finished in next few day
+- https://github.com/tapaswenipathak/JHEPC-19/issues/6
+- https://github.com/tapaswenipathak/JHEPC-19/issues/8
+- https://github.com/tapaswenipathak/JHEPC-19/issues/12
+- https://github.com/tapaswenipathak/JHEPC-19/issues/13
+- https://github.com/tapaswenipathak/JHEPC-19/issues/14
+
+What help I need ?
+- I have no clue how to build this site.We need to have a call to discuss this.
+- The task is to build a website for research papers.I need to know what kind of research papers.
+- How do the websites differ by each country.
+- What genomics data should be present on the site.
